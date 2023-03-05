@@ -43,31 +43,44 @@
 * 用鏈結串鍊處理點餐時的購物字串清單，如此一來比起陣列容易新增刪除。
 * 寫出reusable的程式碼且程式碼分工確實日後維護容易。
 
+### Demo畫面
+
 簡易類別圖
+
 ![](https://i.imgur.com/1VKamk8.png)
 
 功能細項表
+
 ![](https://i.imgur.com/dGe4KUw.png)
 
 使用者介面(JFrame與JOptionPane)
+
 ![](https://i.imgur.com/6ChdXI8.png)
+![](https://i.imgur.com/2JlMP3o.png)
+![](https://i.imgur.com/cdhbpBs.png)
 
 點餐機基本功能
+
 ![](https://i.imgur.com/fuPIKx4.png)
 
 會員申請/登入流程
+
 ![](https://i.imgur.com/YIcROhN.png)
 
 點數兌換流程圖
+
 ![](https://i.imgur.com/9tnAnox.png)
 
 優惠卷使用流程圖
+
 ![](https://i.imgur.com/de3qenZ.png)
 
 印出交易明細/電子發票
+
 ![](https://i.imgur.com/tSdRCDB.png)
 
 csv檔案讀入食物細項並用emoji呈現
+
 ![](https://i.imgur.com/2BPvQHz.png)
 
 ## 未來應用 :
